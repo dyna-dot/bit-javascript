@@ -63,7 +63,7 @@
     "resolve": "^1.5.0",
     "resolve-dependency-path": "^1.0.2",
     "sass-lookup": "^1.1.0",
-    "stylable": "5.2.2",
+    "stylable": "5.4.11",
     "stylus-lookup": "^1.0.2",
     "typescript": "3.2.4",
     "user-home": "^2.0.0",
